@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="button_style">
+        <item name="android:layout_width">75dp</item>
+        <item name="android:layout_height">75dp</item>
+        <item name="android:layout_marginStart">@dimen/margin_left</item>
+        <item name="android:layout_marginLeft">@dimen/margin_left</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginBottom">@dimen/margine_right</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textSize">@dimen/button_text_size</item>
+        <item name="android:onClick">operationFunction</item>
+    </style>
+</resources>
